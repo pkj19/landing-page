@@ -1,0 +1,56 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Services Offered Section */
+
+#services_offered{
+    margin-top: 30px;
+}
+
+.serices-column{
+    padding: 20px;
+    text-align: center;
+}
+
+.services-content{
+    margin-top: 40px;
+
+}
+
+/* Gallery Section */
+
+#gallery{
+    margin-top: 100px;
+}
+
+.img-containe{
+    text-align: center;
+}
+.btn-dark{
+    margin-top: 50px;
+}
+
+
+/* Footer Style */
+footer{
+    padding: 20px;
+    margin-top: 50px;
+    background-color: black;
+    color: #FFFFFF;
+
+}
+
+.footer-link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+}
